@@ -25,9 +25,9 @@ Welcome to a chaotic multiplayer isekai realm where reality bends to collective 
 - Mysterious merchant keeps respawning
 
 ## Player Statistics
-- Total players: 0
-- Total chaos caused: 0
-- Merchants killed: 0 (so far)
+- Total players: 1 (Player 3260549d active)
+- Total chaos caused: 0 (but they just arrived...)
+- Merchants killed: 0 (Dave is still alive)
 - Reality tears: 0
 
 *This world evolves based on player actions. Chaos is not just allowed, it's encouraged.*

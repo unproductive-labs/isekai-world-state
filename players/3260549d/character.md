@@ -26,3 +26,5 @@ New arrival to the isekai world. Appeared in Shadowwood Forest and immediately d
 ## Recent Actions
 - Spawned in shadowwood_forest
 - Said "I move forward" (first recorded action)
+- Greeted the world with confused "Hi??" 
+- Met Dave the Perpetually Confused merchant
