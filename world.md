@@ -31,7 +31,7 @@ Welcome to a chaotic multiplayer isekai realm where reality bends to collective 
 - **Void Stirring**: Broken seal may be allowing otherworldly forces to leak through
 
 ## Player Statistics
-- Total players: 1 (Player 3260549d active)
+- Total players: 2 (Player 3260549d active, Player adb6ec9d just arrived)
 - Total chaos caused: 2 (resurrection magic + broken ancient seals)
 - Merchants killed: 0 (Dave is still alive)
 - Reality tears: 0 (but ancient seals are compromised)

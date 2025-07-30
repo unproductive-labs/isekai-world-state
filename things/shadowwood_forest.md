@@ -8,7 +8,7 @@ Dense trees block most sunlight, creating an eternal twilight atmosphere. Strang
 ## Current State
 - Mood: Energetically awakening, with mysterious undertones
 - Lighting: Twilight with one candle burning brighter, glowing trail visible in deeper woods
-- Inhabitants: One confused merchant (currently alone at altar, still very happy)
+- Inhabitants: One confused merchant (Dave), newly arrived player (adb6ec9d) exploring the area
 
 ## Things Here
 - **strange_candle**: Sitting on a moss-covered altar, flickering ominously
