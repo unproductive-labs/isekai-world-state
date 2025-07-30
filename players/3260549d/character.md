@@ -24,7 +24,7 @@
 - Survive whatever happens next
 
 ## Background
-New arrival to the isekai world. Appeared in Shadowwood Forest and immediately declared intent to "move forward" - classic protagonist behavior. Origin unknown, but the mystical phone connection suggests they're special... or cursed.
+New arrival to the isekai world. Appeared in Shadowwood Forest and immediately declared intent to "move forward" - classic protagonist behavior. Origin unknown, but the mystical phone connection suggests they're special... or cursed. **Recently questioned their own identity - amnesia or dimensional displacement suspected.**
 
 ## Recent Actions
 - Spawned in shadowwood_forest
@@ -37,3 +37,5 @@ New arrival to the isekai world. Appeared in Shadowwood Forest and immediately d
 - **DRANK FROM THE STARLIGHT POOL** - gained cosmic powers
 - Used Starlight Vision to discover an ancient skeleton hidden in the grove
 - **PERFORMED RESURRECTION** - brought back a spectral mage using cosmic energy
+- Asked the spectral mage (Lyralei) for her name
+- **REVEALED AMNESIA** - confessed to not knowing their own identity

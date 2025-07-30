@@ -26,6 +26,7 @@ A translucent figure wreathed in starlight, the partially resurrected form of th
 - Examining their own spectral hands in wonder
 - Struggling to recall their ancient name through the mists of death
 - Offering cryptic guidance to their rescuer
+- **STUDYING THE NAMELESS ONE** - intrigued by the player's identity crisis
 
 ## Recent Events
 - Just resurrected by Player 3260549d's cosmic-enhanced magic
