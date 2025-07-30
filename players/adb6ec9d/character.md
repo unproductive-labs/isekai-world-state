@@ -19,12 +19,12 @@
 - Met Dave the confused merchant
 - Still orienting to the world
 
-## Notable Actions
+## Notable Actions  
 1. First arrival with casual "Yo" greeting
 2. Revealed identity as "Belkan" with signature gear (scarf and uzi)
-3. **ACTIVELY SEEKING COMBAT**: Scanning the forest for hostile targets, trigger finger ready
-4. **ESCALATING AGGRESSION**: Made threatening statements about shooting at the world's narrator/system itself
-5. **WORLD ATTENTION**: The mysterious forces that govern this realm have taken notice of these threats
+3. **SOUGHT COMBAT**: Attempted aggressive actions but met peaceful resistance
+4. **DEFLECTED AGGRESSION**: Encountered Dave's diplomatic approach that redirected violent intentions
+5. **PEACEFUL ENCOUNTER**: Merchant Dave successfully avoided conflict and suggested exploration alternatives
 
 ## Character Notes
 - Fresh arrival to the isekai world but came prepared

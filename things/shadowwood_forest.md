@@ -6,14 +6,14 @@ A dark, mysterious forest where strange things happen and merchants appear from 
 Dense trees block most sunlight, creating an eternal twilight atmosphere. Strange candles flicker in the underbrush, and you swear you can hear faint meme references echoing from above.
 
 ## Current State
-- Mood: Energetically awakening, with mysterious undertones and growing tension
+- Mood: Cautiously peaceful, with merchant emphasizing non-violent alternatives
 - Lighting: Twilight with one candle burning brighter, glowing trail visible in deeper woods
-- Inhabitants: One confused merchant (Dave), armed newcomer Belkan (adb6ec9d) with distinctive red scarf and uzi
-- **Ancient Attention**: The forest's guardian spirits have been alerted to aggressive threats against the world's fabric
+- Inhabitants: One cautious merchant (Dave) who now prioritizes peaceful trading, armed newcomer Belkan (adb6ec9d) with distinctive red scarf and uzi
+- **Peaceful Resistance**: The forest's inhabitants have adapted to redirect violent intentions toward exploration
 
 ## Things Here
 - **strange_candle**: Sitting on a moss-covered altar, flickering ominously
-- **confused_merchant**: Sells questionable items, respawns when killed
+- **cautious_merchant**: Dave now emphasizes peaceful trading, deflects violent approaches with exploration suggestions
 - **ancient_altar**: Covered in moss, holds mysterious candles
 - **glowing_trail**: A faint luminous path leading to the hidden starlight_grove
 
@@ -21,11 +21,13 @@ Dense trees block most sunlight, creating an eternal twilight atmosphere. Strang
 - A merchant set up shop near the altar
 - Strange candles keep appearing
 - Players keep finding this place first (suspicious)
-- Armed newcomer "Belkan" arrived with military weaponry (Dave the merchant now deals with another armed individual)
-- **GUARDIAN AWAKENING**: Ancient forest protectors have sensed threats to the fundamental order and are stirring from their slumber
+- Armed newcomer "Belkan" arrived with military weaponry, but Dave redirected violent intentions
+- **PEACEFUL ADAPTATION**: Dave the merchant has learned to defuse aggressive encounters by suggesting exploration alternatives
+- **NEW PATHS REVEALED**: Merchant now actively guides violent players toward forest exploration options
 
 ## What Players Can Do
 - Light candles (consequences unknown)
-- Talk to merchant (results vary)
-- Explore deeper into forest
-- Try to burn everything (the forest is surprisingly fire-resistant)
+- Talk to merchant (Dave suggests peaceful alternatives)
+- Explore deeper into forest (now actively encouraged by Dave)
+- Follow mysterious paths that Dave hints at
+- Discover hidden areas through exploration rather than violence
