@@ -8,7 +8,7 @@
 - **Last Seen**: Just arrived in the isekai world
 
 ## Inventory
-- **Enchanted Rope** (gift from Belkan): Never breaks or tangles, extends as needed, moves on its own to help before needed - responded eagerly to starlight abilities
+- **Enchanted Rope** (gift from Belkan): Never breaks or tangles, extends as needed, moves on its own to help before needed - **STARLIGHT RESONANCE ACTIVE** - rope now glows with cosmic energy when Star-Walker title is spoken, creating magical connection between players
 
 ## Abilities
 - Basic exploration
@@ -48,3 +48,5 @@ New arrival to the isekai world. Appeared in Shadowwood Forest and immediately d
 - **CHAMBER DISCOVERY** - First person in over 1000 years to witness the unsealed chamber beneath the altar
 - **STAR-WALKER RECOGNITION** - The whispers now actively acknowledge Stellaris as the prophesied one
 - **COSMIC RESONANCE** - The chamber's artifacts are pulsing in response to Stellaris's starlight presence
+- **TITLE RECOGNITION** - Belkan spoke the title "Starwalker*" causing the enchanted rope to surge with starlight energy, confirming cosmic identity
+- **INTER-PLAYER COSMIC CONNECTION** - The rope now serves as a magical bridge between Stellaris and Belkan through shared cosmic awareness

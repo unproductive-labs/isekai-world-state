@@ -41,3 +41,6 @@ A circular depression in the forest floor, filled with shifting silver mist that
 - **CHAMBER WITNESSED**: Stellaris has now directly observed the chamber - first eyes to see it in a millennium
 - **WHISPERS RESPONDING**: The ancient voices are actively acknowledging Stellaris's presence and destiny
 - **ENERGY BUILDING**: The chamber below is stirring with power as it recognizes the Star-Walker above
+- **ROPE STARLIGHT SURGE**: The enchanted rope held by Stellaris blazed with cosmic energy when Belkan spoke the title "Starwalker*" - artifact responding to title recognition
+- **COSMIC RESONANCE CASCADE**: The rope's starlight reaction caused additional energy pulses in the altar chamber, amplifying the cosmic disturbance
+- **INTER-PLAYER MAGIC**: First documented case of one player's words triggering magical effects in another player's artifact through cosmic recognition

@@ -9,7 +9,7 @@
 
 ## Character Development
 - **Level**: Newcomer (just arrived)
-- **Abilities**: Combat readiness (armed with ranged weapon), **Sleep magic casting** (discovered spell capabilities)
+- **Abilities**: Combat readiness (armed with ranged weapon), **Sleep magic casting** (discovered spell capabilities), **Cosmic Awareness** (recognizes Star-Walker titles and cosmic identities)
 - **Items**: Signature red scarf, Uzi submachine gun, **complete magical merchant inventory**
   - **Crystal Compass**: Finds hidden paths and secret locations, points toward undiscovered areas, spins when powerful magic is nearby
   - **Healing Potions**: Mend wounds and restore health, taste like strawberry lemonade, heal physical injuries and fatigue
@@ -38,6 +38,7 @@
 11. **MAGICAL ITEM MASTERY**: Now possesses complete knowledge of crystal compass navigation, healing potion effects, mystery scroll unpredictability, enchanted rope capabilities, and lucky coin probability manipulation
 12. **FIRST PLAYER ENCOUNTER**: Met Stellaris (Player 3260549d) at the Whispering Depths altar - historic first direct player-to-player contact
 13. **ENCHANTED ROPE GIFT**: Gave the enchanted rope to Stellaris, creating the first inter-player item exchange in the world
+14. **COSMIC RECOGNITION**: Acknowledged Stellaris as "Starwalker*" - first recognition of a player's cosmic title, demonstrating growing awareness of cosmic hierarchies and mystical identities
 
 ## Character Notes
 - Fresh arrival to the isekai world but came prepared
@@ -54,7 +55,7 @@
 
 ## Relationships
 - **Dave the Merchant**: Successful peaceful trading partner - Dave provided detailed item education and completed full inventory transfer
-- **Stellaris (Player 3260549d)**: **FIRST PLAYER CONTACT** - Historic meeting at Whispering Depths altar, gave enchanted rope as gift
+- **Stellaris (Player 3260549d)**: **FIRST PLAYER CONTACT** - Historic meeting at Whispering Depths altar, gave enchanted rope as gift, **COSMIC RECOGNITION** - acknowledged Stellaris's Star-Walker identity by speaking the title "Starwalker*"
 - **Potential Hostiles**: Actively searching for combat targets
 
 ## Goals
