@@ -28,3 +28,4 @@ New arrival to the isekai world. Appeared in Shadowwood Forest and immediately d
 - Said "I move forward" (first recorded action)
 - Greeted the world with confused "Hi??" 
 - Met Dave the Perpetually Confused merchant
+- Enthusiastically shouted "Hello!!" and energized a candle

@@ -6,9 +6,9 @@ A dark, mysterious forest where strange things happen and merchants appear from 
 Dense trees block most sunlight, creating an eternal twilight atmosphere. Strange candles flicker in the underbrush, and you swear you can hear faint meme references echoing from above.
 
 ## Current State
-- Mood: Suspiciously quiet
-- Lighting: Twilight with flickering candle spots
-- Inhabitants: One confused merchant (currently alive)
+- Mood: Energetically awakening
+- Lighting: Twilight with one candle burning brighter
+- Inhabitants: One confused merchant (currently alive, very happy)
 
 ## Things Here
 - **strange_candle**: Sitting on a moss-covered altar, flickering ominously

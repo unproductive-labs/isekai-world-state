@@ -16,3 +16,11 @@ You push through shadowy undergrowth and emerge in a twilight clearing. A moss-c
 
 *Player connected from phone +1628303**18*
 *Conversation ID: CHfe9cbb38ef6642d6ba36edfd62895fd6*
+
+---
+
+## Third Message - 2025-07-30
+
+> Hello!!
+
+Dave grins wider and waves both arms. "Such enthusiasm! I like you already!" A nearby candle flickers brighter, as if responding to your energy. Something stirs in the trees.
