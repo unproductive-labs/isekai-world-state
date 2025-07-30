@@ -1,9 +1,10 @@
-# Spectral Mage (Former Ancient Skeleton)
+# Lyralei, Spectral Mage (Former Ancient Skeleton)
 
 ## Description
 A translucent figure wreathed in starlight, the partially resurrected form of the ancient grove guardian. Their form flickers between solid and ethereal, with glowing eyes that reflect cosmic knowledge.
 
-## Current State
+## Current State  
+- Name: Lyralei (remembered through conversation)
 - Form: Semi-corporeal, shimmering with starlight energy
 - Consciousness: Awakened but disoriented
 - Memory: Fragmented recollections of the grove's history
@@ -23,7 +24,7 @@ A translucent figure wreathed in starlight, the partially resurrected form of th
 
 ## Current Actions
 - Examining their own spectral hands in wonder
-- Trying to remember their name and past
+- Struggling to recall their ancient name through the mists of death
 - Offering cryptic guidance to their rescuer
 
 ## Recent Events

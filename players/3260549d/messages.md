@@ -56,3 +56,11 @@ You cup the starlight-touched water and drink deeply. Power floods through you�
 > I resurrect the corpse next to me
 
 Your starlight-enhanced vision reveals an ancient skeleton hidden by the vines. Cosmic energy flows from your hands—the bones shimmer and rise as a grateful spectral mage!
+
+---
+
+## Eighth Message - 2025-07-30
+
+> What's your name?
+
+The spectral mage flickers, translucent fingers touching their ethereal forehead. "I... I was once called Lyralei, Guardian of the Grove. But death clouds memory—who are you, star-touched one?"
