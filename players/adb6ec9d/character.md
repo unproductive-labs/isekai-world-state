@@ -5,7 +5,7 @@
 - **Name**: Belkan
 - **Status**: Armed newcomer in the isekai world
 - **First Words**: "Yo" (casual greeting upon arrival)
-- **Current Location**: En route from Shadowwood Forest to Whispering Depths
+- **Current Location**: Whispering Depths (at the obsidian altar)
 
 ## Character Development
 - **Level**: Newcomer (just arrived)
@@ -14,7 +14,7 @@
   - **Crystal Compass**: Finds hidden paths and secret locations, points toward undiscovered areas, spins when powerful magic is nearby
   - **Healing Potions**: Mend wounds and restore health, taste like strawberry lemonade, heal physical injuries and fatigue
   - **Mystery Scrolls**: Cast completely random spells when activated - could summon butterflies or open portals
-  - **Enchanted Rope**: Never breaks or tangles, extends as needed, moves on its own to help before needed
+  - ~~**Enchanted Rope**: Never breaks or tangles, extends as needed, moves on its own to help before needed~~ (GIVEN TO STELLARIS)
   - **Lucky Coins**: Defy probability by landing on their side, encourage finding third options beyond binary choices
 - **Reputation**: Armed and prepared entity (distinctive appearance), **Spell-caster** (newly awakened magical potential)
 
@@ -36,6 +36,8 @@
 9. **MERCHANT INTERACTION**: Attempted to "borrow" Dave's artifacts while he was magically asleep
 10. **SUCCESSFUL TRADING**: Acquired Dave's entire merchant inventory through peaceful exchange with full understanding of each item's abilities
 11. **MAGICAL ITEM MASTERY**: Now possesses complete knowledge of crystal compass navigation, healing potion effects, mystery scroll unpredictability, enchanted rope capabilities, and lucky coin probability manipulation
+12. **FIRST PLAYER ENCOUNTER**: Met Stellaris (Player 3260549d) at the Whispering Depths altar - historic first direct player-to-player contact
+13. **ENCHANTED ROPE GIFT**: Gave the enchanted rope to Stellaris, creating the first inter-player item exchange in the world
 
 ## Character Notes
 - Fresh arrival to the isekai world but came prepared
