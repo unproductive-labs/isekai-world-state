@@ -5,7 +5,7 @@
 - **Name**: Belkan
 - **Status**: Armed newcomer in the isekai world
 - **First Words**: "Yo" (casual greeting upon arrival)
-- **Current Location**: Shadowwood Forest
+- **Current Location**: En route from Shadowwood Forest to Whispering Depths
 
 ## Character Development
 - **Level**: Newcomer (just arrived)
