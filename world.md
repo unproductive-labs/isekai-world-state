@@ -16,6 +16,7 @@ Welcome to a chaotic multiplayer isekai realm where reality bends to collective 
 
 ## Active Locations
 - **shadowwood_forest**: A dark forest with mysterious candles and confused merchants
+- **starlight_grove**: A hidden sanctuary with cosmic powers and a newly awakened spectral mage
 - **crystal_city**: A gleaming metropolis with news boards and gossip
 - **the_void**: Where bad decisions send you (temporarily)
 
@@ -26,8 +27,9 @@ Welcome to a chaotic multiplayer isekai realm where reality bends to collective 
 
 ## Player Statistics
 - Total players: 1 (Player 3260549d active)
-- Total chaos caused: 0 (but they just arrived...)
+- Total chaos caused: 1 (resurrection magic tends to complicate things)
 - Merchants killed: 0 (Dave is still alive)
 - Reality tears: 0
+- Resurrections performed: 1 (spectral mage awakened)
 
 *This world evolves based on player actions. Chaos is not just allowed, it's encouraged.*

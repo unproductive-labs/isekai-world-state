@@ -23,9 +23,13 @@ A circular grove surrounded by luminescent vines that part like curtains. At its
 - Study the impossible starlight reflections
 - Rest and recover (this place feels safe)
 
+## Hidden Features
+- An ancient skeleton lies partially concealed by the luminescent vines (visible only with magical sight)
+
 ## Recent Events
 - First discovered by an eager protagonist who refused to give up
 - The runes activated upon their arrival  
 - The grove seems to have been waiting for someone
 - **MAJOR EVENT**: Player 3260549d drank from the pool and absorbed its starlight magic
 - The grove's ancient purpose has been fulfilled
+- Player 3260549d spotted the ancient skeleton with their enhanced Starlight Vision

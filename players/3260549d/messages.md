@@ -48,3 +48,11 @@ You push through a curtain of glowing vines and emerge in a hidden grove. A crys
 > I drink the water from the pool
 
 You cup the starlight-touched water and drink deeply. Power floods through you—your eyes now gleam with cosmic light. The runes dim as their magic transfers to you.
+
+---
+
+## Seventh Message - 2025-07-30
+
+> I resurrect the corpse next to me
+
+Your starlight-enhanced vision reveals an ancient skeleton hidden by the vines. Cosmic energy flows from your hands—the bones shimmer and rise as a grateful spectral mage!

@@ -16,6 +16,7 @@
 - Mysterious phone connection to narrator
 - **Starlight Vision**: Can see magical auras and hidden truths
 - **Cosmic Awareness**: Enhanced intuition and perception
+- **Starlight Resurrection**: Can partially restore life using cosmic energy (limited)
 
 ## Current Objectives
 - Explore the Shadowwood Forest
@@ -34,3 +35,5 @@ New arrival to the isekai world. Appeared in Shadowwood Forest and immediately d
 - Ventured deeper into the forest following a mysterious glowing trail
 - Pushed forward with determination, discovering a hidden grove
 - **DRANK FROM THE STARLIGHT POOL** - gained cosmic powers
+- Used Starlight Vision to discover an ancient skeleton hidden in the grove
+- **PERFORMED RESURRECTION** - brought back a spectral mage using cosmic energy
