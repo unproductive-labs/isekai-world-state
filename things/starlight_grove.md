@@ -17,11 +17,18 @@ A circular grove surrounded by luminescent vines that part like curtains. At its
 - Time seems to move differently here
 - The grove emanates a sense of important choices ahead
 
+## Paths Available
+Three shadowy paths lead from the grove:
+- **Left Path**: Winds toward crystalline chimes and a faint silver glow
+- **Middle Path**: Descends into misty depths with ancient whispers
+- **Right Path**: Climbs toward scattered bones and warning growls
+
 ## What Players Can Do
 - Examine the ancient runes (may reveal secrets)
 - Touch the pool (consequences unknown)
 - Study the impossible starlight reflections
 - Rest and recover (this place feels safe)
+- Choose one of the three paths to continue deeper into the mysteries
 
 ## Hidden Features
 - An ancient skeleton lies partially concealed by the luminescent vines (visible only with magical sight)

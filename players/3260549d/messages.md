@@ -88,3 +88,11 @@ Lyralei's spectral form brightens as she considers. "You bear starlight in your 
 > So what do I do now what's around me?
 
 Lyralei gestures around the grove. The pool still reflects impossible stars, dimmed runes circle ancient stones, and luminous vines sway gently. Three paths lead out into shadow.
+
+---
+
+## Twelfth Message - 2025-07-30
+
+> I take the path in the middle 
+
+You descend into swirling silver mist. Ancient whispers echo from nowhere and everywhere—fragments of forgotten knowledge in dead tongues. An obsidian altar waits below.

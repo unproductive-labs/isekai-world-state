@@ -1,7 +1,7 @@
 # Player 3260549d - Stellaris
 
 ## Current Status
-- **Location**: starlight_grove
+- **Location**: whispering_depths
 - **Health**: 100/100
 - **Level**: 1
 - **State**: alive
@@ -41,3 +41,5 @@ New arrival to the isekai world. Appeared in Shadowwood Forest and immediately d
 - **REVEALED AMNESIA** - confessed to not knowing their own identity
 - Asked Lyralei to give them a name
 - **RECEIVED NAME** - christened 'Stellaris, the Star-Walker' by the ancient mage
+- Asked what to do and where to go next
+- **CHOSE THE MIDDLE PATH** - descended into the mysterious Whispering Depths
