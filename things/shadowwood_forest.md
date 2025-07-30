@@ -8,7 +8,7 @@ Dense trees block most sunlight, creating an eternal twilight atmosphere. Strang
 ## Current State
 - Mood: Cautiously peaceful, with merchant emphasizing non-violent alternatives, now touched by cosmic contemplation
 - Lighting: Twilight with one candle burning brighter, glowing trail visible in deeper woods, shadows seeming to whisper ancient truths
-- Inhabitants: One cautious merchant (Dave) who now prioritizes peaceful trading, armed newcomer Belkan (adb6ec9d) with distinctive red scarf and uzi
+- Inhabitants: One cautious merchant (Dave) who now prioritizes peaceful trading, armed newcomer Belkan (adb6ec9d) with distinctive red scarf, uzi, and **full merchant inventory**
 - **Peaceful Resistance**: The forest's inhabitants have adapted to redirect violent intentions toward exploration
 - **METAPHYSICAL RESONANCE**: The ancient trees and shadows respond to deep questions about reality's nature with cryptic murmurs
 

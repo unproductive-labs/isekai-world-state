@@ -9,9 +9,9 @@
 
 ## Character Development
 - **Level**: Newcomer (just arrived)
-- **Abilities**: Combat readiness (armed with ranged weapon)
-- **Items**: Signature red scarf, Uzi submachine gun
-- **Reputation**: Armed and prepared entity (distinctive appearance)
+- **Abilities**: Combat readiness (armed with ranged weapon), **Sleep magic casting** (discovered spell capabilities)
+- **Items**: Signature red scarf, Uzi submachine gun, **crystal compass** (finds hidden paths), **healing potions** (mend wounds), **mystery scrolls** (cast random spells), **enchanted rope** (never breaks/tangles), **lucky coins** (land on their side)
+- **Reputation**: Armed and prepared entity (distinctive appearance), **Spell-caster** (newly awakened magical potential)
 
 ## Current Situation
 - Just landed in Shadowwood Forest
@@ -27,6 +27,9 @@
 5. **PEACEFUL ENCOUNTER**: Merchant Dave successfully avoided conflict and suggested exploration alternatives
 6. **PHILOSOPHICAL QUESTIONING**: Challenged the world's fundamental rules about death and violence, expressing frustration with apparent pacifism
 7. **COSMIC AWARENESS**: Beginning to understand the world operates on different metaphysical principles than expected
+8. **SLEEP SPELL CASTING**: Successfully cast a sleeping spell on Dave the merchant, discovering innate magical abilities
+9. **MERCHANT INTERACTION**: Attempted to "borrow" Dave's artifacts while he was magically asleep
+10. **SUCCESSFUL TRADING**: Acquired Dave's entire merchant inventory through peaceful exchange - crystal compass, healing potions, mystery scrolls, enchanted rope, and lucky coins
 
 ## Character Notes
 - Fresh arrival to the isekai world but came prepared
