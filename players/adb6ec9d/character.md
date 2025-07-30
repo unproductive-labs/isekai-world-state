@@ -2,15 +2,16 @@
 
 ## Basic Info
 - **Player ID**: adb6ec9d
-- **Status**: Newly arrived in the isekai world
+- **Name**: Belkan
+- **Status**: Armed newcomer in the isekai world
 - **First Words**: "Yo" (casual greeting upon arrival)
 - **Current Location**: Shadowwood Forest
 
 ## Character Development
 - **Level**: Newcomer (just arrived)
-- **Abilities**: None yet (standard human abilities)
-- **Items**: None (arrived with nothing)
-- **Reputation**: Unknown entity (first arrival)
+- **Abilities**: Combat readiness (armed with ranged weapon)
+- **Items**: Signature red scarf, Uzi submachine gun
+- **Reputation**: Armed and prepared entity (distinctive appearance)
 
 ## Current Situation
 - Just landed in Shadowwood Forest
@@ -20,12 +21,14 @@
 
 ## Notable Actions
 1. First arrival with casual "Yo" greeting
+2. Revealed identity as "Belkan" with signature gear (scarf and uzi)
 
 ## Character Notes
-- Fresh arrival to the isekai world
+- Fresh arrival to the isekai world but came prepared
 - Starting at the standard arrival location (Shadowwood Forest)
-- No special powers or items yet
-- Ready to begin their chaotic journey
+- Armed with military-grade weaponry (Uzi)
+- Distinctive red scarf as signature item
+- Ready to begin their chaotic journey with firepower
 
 ## Relationships
 - **Dave the Merchant**: Just met (neutral encounter)
