@@ -7,12 +7,13 @@ Original tasks:
 # World Builder Tasks
 
 ## Player Action Context
-Player adb6ec9d just introduced themselves as "Belkan" with signature items: a scarf and an uzi
+Player adb6ec9d (Belkan) just asked: "lol what do I see. Anything I can shoot at?" - actively looking for combat targets while exploring Shadowwood Forest with his Uzi.
 
 ## Tasks to Complete
-1. **Update players/adb6ec9d/character.md**: Add name "Belkan", signature scarf item, uzi weapon, update from generic newcomer to armed character
-2. **Update things/shadowwood_forest.md**: Note Belkan's arrival and that Dave the merchant has encountered another armed player
-3. **Update world.md**: Increment chaos level - another armed player has arrived in the world
+1. **Update players/adb6ec9d/character.md**: Player is now actively seeking combat/targets, showing aggressive exploration style
+2. **Update things/shadowwood_forest.md**: Note tension in the forest as armed newcomer surveys for threats
+3. **Consider creature spawns**: Player wants combat - forest could respond with hostile entities
+4. **Update world.md**: Armed player seeking conflict could trigger world events
 
 ## Files to Edit
 - `/app/world_state/players/adb6ec9d/character.md`
@@ -20,8 +21,9 @@ Player adb6ec9d just introduced themselves as "Belkan" with signature items: a s
 - `/app/world_state/world.md`
 
 ## Notes
-- Belkan appears to be a prepared character with signature gear
-- Uzi suggests combat readiness - this could escalate interactions
-- Scarf is likely a defining visual characteristic
-- Player went from casual "Yo" to detailed character introduction
+- Belkan has an Uzi and wants to use it
+- Spectral mage Lyralei is present but may not be hostile
+- Dave the merchant could be a target or ally
+- Forest's magical nature might spawn threats in response to aggressive intent
+- Player's combat-seeking behavior should influence world response
 ```

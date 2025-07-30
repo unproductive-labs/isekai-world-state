@@ -22,19 +22,23 @@
 ## Notable Actions
 1. First arrival with casual "Yo" greeting
 2. Revealed identity as "Belkan" with signature gear (scarf and uzi)
+3. **ACTIVELY SEEKING COMBAT**: Scanning the forest for hostile targets, trigger finger ready
 
 ## Character Notes
 - Fresh arrival to the isekai world but came prepared
 - Starting at the standard arrival location (Shadowwood Forest)
 - Armed with military-grade weaponry (Uzi)
 - Distinctive red scarf as signature item
-- Ready to begin their chaotic journey with firepower
+- **Combat-oriented mindset**: Looking for fights and threats to engage
+- **Aggressive exploration style**: Approaches new world with weapon drawn
 
 ## Relationships
 - **Dave the Merchant**: Just met (neutral encounter)
 - **Other Players**: Unaware of Player 3260549d's existence
+- **Potential Hostiles**: Actively searching for combat targets
 
 ## Goals
-- Explore and understand this new world
-- Survive the chaos
-- Discover what adventures await
+- **PRIMARY**: Find something to shoot at and test combat capabilities
+- Explore and understand this new world through conflict
+- Survive the chaos while causing some of their own
+- Discover what adventures await (preferably violent ones)
