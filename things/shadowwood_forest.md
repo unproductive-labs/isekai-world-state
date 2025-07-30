@@ -9,6 +9,7 @@ Dense trees block most sunlight, creating an eternal twilight atmosphere. Strang
 - Mood: Energetically awakening, with mysterious undertones and growing tension
 - Lighting: Twilight with one candle burning brighter, glowing trail visible in deeper woods
 - Inhabitants: One confused merchant (Dave), armed newcomer Belkan (adb6ec9d) with distinctive red scarf and uzi
+- **Ancient Attention**: The forest's guardian spirits have been alerted to aggressive threats against the world's fabric
 
 ## Things Here
 - **strange_candle**: Sitting on a moss-covered altar, flickering ominously
@@ -21,6 +22,7 @@ Dense trees block most sunlight, creating an eternal twilight atmosphere. Strang
 - Strange candles keep appearing
 - Players keep finding this place first (suspicious)
 - Armed newcomer "Belkan" arrived with military weaponry (Dave the merchant now deals with another armed individual)
+- **GUARDIAN AWAKENING**: Ancient forest protectors have sensed threats to the fundamental order and are stirring from their slumber
 
 ## What Players Can Do
 - Light candles (consequences unknown)

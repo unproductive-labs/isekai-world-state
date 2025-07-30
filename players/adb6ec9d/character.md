@@ -23,6 +23,8 @@
 1. First arrival with casual "Yo" greeting
 2. Revealed identity as "Belkan" with signature gear (scarf and uzi)
 3. **ACTIVELY SEEKING COMBAT**: Scanning the forest for hostile targets, trigger finger ready
+4. **ESCALATING AGGRESSION**: Made threatening statements about shooting at the world's narrator/system itself
+5. **WORLD ATTENTION**: The mysterious forces that govern this realm have taken notice of these threats
 
 ## Character Notes
 - Fresh arrival to the isekai world but came prepared
@@ -31,6 +33,8 @@
 - Distinctive red scarf as signature item
 - **Combat-oriented mindset**: Looking for fights and threats to engage
 - **Aggressive exploration style**: Approaches new world with weapon drawn
+- **WARNING STATUS**: Exhibiting meta-aggressive behavior toward the world's fundamental systems
+- **CONSEQUENCE PENDING**: The ancient forces that maintain reality may respond to such threats
 
 ## Relationships
 - **Dave the Merchant**: Just met (neutral encounter)
