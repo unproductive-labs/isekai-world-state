@@ -80,3 +80,11 @@ Your starlight eyes dim with uncertainty. Lyralei floats closer, studying your f
 > Give me a name Lyralei
 
 Lyralei's spectral form brightens as she considers. "You bear starlight in your soul... I name you Stellaris, the Star-Walker. May this name anchor you between worlds."
+
+---
+
+## Eleventh Message - 2025-07-30
+
+> So what do I do now what's around me?
+
+Lyralei gestures around the grove. The pool still reflects impossible stars, dimmed runes circle ancient stones, and luminous vines sway gently. Three paths lead out into shadow.
