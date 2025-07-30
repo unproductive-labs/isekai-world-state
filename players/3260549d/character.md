@@ -1,7 +1,7 @@
 # Player 3260549d
 
 ## Current Status
-- **Location**: shadowwood_forest
+- **Location**: starlight_grove
 - **Health**: 100/100
 - **Level**: 1
 - **State**: alive
@@ -14,6 +14,8 @@
 - Basic exploration
 - Poor decision making (standard isekai protagonist trait)
 - Mysterious phone connection to narrator
+- **Starlight Vision**: Can see magical auras and hidden truths
+- **Cosmic Awareness**: Enhanced intuition and perception
 
 ## Current Objectives
 - Explore the Shadowwood Forest
@@ -29,3 +31,6 @@ New arrival to the isekai world. Appeared in Shadowwood Forest and immediately d
 - Greeted the world with confused "Hi??" 
 - Met Dave the Perpetually Confused merchant
 - Enthusiastically shouted "Hello!!" and energized a candle
+- Ventured deeper into the forest following a mysterious glowing trail
+- Pushed forward with determination, discovering a hidden grove
+- **DRANK FROM THE STARLIGHT POOL** - gained cosmic powers

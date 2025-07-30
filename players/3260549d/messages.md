@@ -24,3 +24,27 @@ You push through shadowy undergrowth and emerge in a twilight clearing. A moss-c
 > Hello!!
 
 Dave grins wider and waves both arms. "Such enthusiasm! I like you already!" A nearby candle flickers brighter, as if responding to your energy. Something stirs in the trees.
+
+---
+
+## Fourth Message - 2025-07-30
+
+> I move
+
+You step away from Dave and venture deeper into the shadowy forest. The trees whisper secrets as you pass. A glowing trail appears beneath your feet, leading somewhere mysterious.
+
+---
+
+## Fifth Message - 2025-07-30
+
+> Give it another shot
+
+You push through a curtain of glowing vines and emerge in a hidden grove. A crystal-clear pool reflects starlight that shouldn't exist. Ancient runes pulse softly around its edge.
+
+---
+
+## Sixth Message - 2025-07-30
+
+> I drink the water from the pool
+
+You cup the starlight-touched water and drink deeply. Power floods through you—your eyes now gleam with cosmic light. The runes dim as their magic transfers to you.
