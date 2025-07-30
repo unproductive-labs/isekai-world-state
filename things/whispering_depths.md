@@ -38,3 +38,6 @@ A circular depression in the forest floor, filled with shifting silver mist that
 - **WHISPERS CHANGED**: Ancient voices now speak of Stellaris as "chosen one" and mention "broken seal"
 - **COSMIC RECOGNITION**: The whispers have identified Stellaris as the prophesied Star-Walker
 - **SEAL BREACH CONFIRMED**: Ancient protective barriers have been compromised - cosmic forces stirring
+- **CHAMBER WITNESSED**: Stellaris has now directly observed the chamber - first eyes to see it in a millennium
+- **WHISPERS RESPONDING**: The ancient voices are actively acknowledging Stellaris's presence and destiny
+- **ENERGY BUILDING**: The chamber below is stirring with power as it recognizes the Star-Walker above

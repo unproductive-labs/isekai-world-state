@@ -37,10 +37,15 @@ If the player's action suggests world expansion, create `world_builder_tasks.md`
 Player {hash} just: {brief description}
 
 ## Tasks to Complete
-1. **Update location**: {what changed in the location}
-2. **Update character**: {what changed about the player}  
-3. **Create new thing**: {if something new appeared}
-4. **Update world state**: {broader consequences}
+1. **Update players/{hash}/character.md**: {what changed about the player}
+2. **Update things/{location}.md**: {what changed in the location}  
+3. **Create things/{new_thing}.md**: {if something new appeared}
+4. **Update world.md**: {broader consequences}
+
+## Files to Edit
+- `/app/world_state/players/{hash}/character.md`
+- `/app/world_state/things/{location}.md`
+- `/app/world_state/world.md`
 
 ## Notes
 {any specific details or constraints}

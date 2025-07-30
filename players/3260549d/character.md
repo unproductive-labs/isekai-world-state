@@ -45,3 +45,6 @@ New arrival to the isekai world. Appeared in Shadowwood Forest and immediately d
 - **CHOSE THE MIDDLE PATH** - descended into the mysterious Whispering Depths
 - **TRIGGERED ALTAR REACTION** - Stellaris's starlight presence caused the obsidian altar to react, widening its crack and unsealing a hidden chamber
 - **WHISPER COMPREHENSION** - Now understanding fragments of the ancient whispers due to enhanced cosmic awareness
+- **CHAMBER DISCOVERY** - First person in over 1000 years to witness the unsealed chamber beneath the altar
+- **STAR-WALKER RECOGNITION** - The whispers now actively acknowledge Stellaris as the prophesied one
+- **COSMIC RESONANCE** - The chamber's artifacts are pulsing in response to Stellaris's starlight presence

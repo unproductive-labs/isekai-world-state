@@ -7,10 +7,10 @@ A circular stone chamber with walls covered in luminescent script that pulses wi
 
 ## Current State
 - **Access**: Newly opened through the widened crack in the obsidian altar above
-- **Atmosphere**: Dense with cosmic energy and ancient magic
-- **Lighting**: Ethereal glow from crystalline formations and floating artifacts
-- **Temperature**: Cool but energizing, charged with starlight resonance
-- **Condition**: Pristine despite its age - preserved by powerful magic
+- **Atmosphere**: Dense with cosmic energy and ancient magic - **now actively responding to Star-Walker presence**
+- **Lighting**: Ethereal glow from crystalline formations and floating artifacts - **artifacts pulsing brighter**
+- **Temperature**: Cool but energizing, charged with starlight resonance - **energy building intensely**
+- **Condition**: Pristine despite its age - preserved by powerful magic - **awakening after millennium of slumber**
 
 ## Contents
 - **Floating Artifacts**: Ancient items suspended in pillars of light
@@ -44,6 +44,10 @@ A circular stone chamber with walls covered in luminescent script that pulses wi
 - **UNSEALED**: Stellaris's starlight presence broke the ancient seals
 - **FIRST BREACH**: No one has entered this chamber for over a thousand years
 - **POWER AWAKENING**: The cosmic energy within is stirring after long dormancy
+- **STAR-WALKER WITNESSED**: Stellaris has now gazed upon the chamber from above
+- **ARTIFACTS RESPONDING**: The floating artifacts pulse brighter, sensing the prophesied one
+- **COSMIC ALIGNMENT**: The chamber's energy is building as it recognizes its destined visitor
+- **WHISPERS CLEARER**: Ancient voices from the chamber are now audible to Stellaris above
 
 ## Atmosphere Notes
 The chamber feels both ancient and timeless, as if existing slightly outside normal reality. The floating artifacts seem to pulse in rhythm with a cosmic heartbeat, and the whispers from above are clearer here - speaking of destiny, power, and the awakening of something long dormant.
