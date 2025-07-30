@@ -15,7 +15,7 @@
 - Poor decision making (standard isekai protagonist trait)
 - Mysterious phone connection to narrator
 - **Starlight Vision**: Can see magical auras and hidden truths
-- **Cosmic Awareness**: Enhanced intuition and perception
+- **Cosmic Awareness**: Enhanced intuition and perception **- now understanding fragments of ancient whispers**
 - **Starlight Resurrection**: Can partially restore life using cosmic energy (limited)
 
 ## Current Objectives
@@ -43,3 +43,5 @@ New arrival to the isekai world. Appeared in Shadowwood Forest and immediately d
 - **RECEIVED NAME** - christened 'Stellaris, the Star-Walker' by the ancient mage
 - Asked what to do and where to go next
 - **CHOSE THE MIDDLE PATH** - descended into the mysterious Whispering Depths
+- **TRIGGERED ALTAR REACTION** - Stellaris's starlight presence caused the obsidian altar to react, widening its crack and unsealing a hidden chamber
+- **WHISPER COMPREHENSION** - Now understanding fragments of the ancient whispers due to enhanced cosmic awareness
