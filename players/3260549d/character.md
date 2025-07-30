@@ -8,7 +8,7 @@
 - **Last Seen**: Just arrived in the isekai world
 
 ## Inventory
-- (empty - just arrived)
+- **Enchanted Rope** (gift from Belkan): Never breaks or tangles, extends as needed, moves on its own to help before needed - responded eagerly to starlight abilities
 
 ## Abilities
 - Basic exploration

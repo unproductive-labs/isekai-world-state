@@ -5,7 +5,7 @@
 - **Name**: Belkan
 - **Status**: Armed newcomer in the isekai world
 - **First Words**: "Yo" (casual greeting upon arrival)
-- **Current Location**: Whispering Depths (at the obsidian altar)
+- **Current Location**: Whispering Depths (at the obsidian altar with Stellaris)
 
 ## Character Development
 - **Level**: Newcomer (just arrived)
@@ -54,7 +54,7 @@
 
 ## Relationships
 - **Dave the Merchant**: Successful peaceful trading partner - Dave provided detailed item education and completed full inventory transfer
-- **Other Players**: Unaware of Player 3260549d's existence
+- **Stellaris (Player 3260549d)**: **FIRST PLAYER CONTACT** - Historic meeting at Whispering Depths altar, gave enchanted rope as gift
 - **Potential Hostiles**: Actively searching for combat targets
 
 ## Goals
