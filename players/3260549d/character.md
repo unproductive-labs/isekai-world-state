@@ -1,4 +1,4 @@
-# Player 3260549d
+# Player 3260549d - Stellaris
 
 ## Current Status
 - **Location**: starlight_grove
@@ -24,7 +24,7 @@
 - Survive whatever happens next
 
 ## Background
-New arrival to the isekai world. Appeared in Shadowwood Forest and immediately declared intent to "move forward" - classic protagonist behavior. Origin unknown, but the mystical phone connection suggests they're special... or cursed. **Recently questioned their own identity - amnesia or dimensional displacement suspected.**
+New arrival to the isekai world. Appeared in Shadowwood Forest and immediately declared intent to "move forward" - classic protagonist behavior. Origin unknown, but the mystical phone connection suggests they're special... or cursed. **Recently named 'Stellaris' by the spectral mage Lyralei - identity partially restored through cosmic naming ritual.**
 
 ## Recent Actions
 - Spawned in shadowwood_forest
@@ -39,3 +39,5 @@ New arrival to the isekai world. Appeared in Shadowwood Forest and immediately d
 - **PERFORMED RESURRECTION** - brought back a spectral mage using cosmic energy
 - Asked the spectral mage (Lyralei) for her name
 - **REVEALED AMNESIA** - confessed to not knowing their own identity
+- Asked Lyralei to give them a name
+- **RECEIVED NAME** - christened 'Stellaris, the Star-Walker' by the ancient mage

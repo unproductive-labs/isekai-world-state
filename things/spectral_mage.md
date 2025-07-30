@@ -26,8 +26,10 @@ A translucent figure wreathed in starlight, the partially resurrected form of th
 - Examining their own spectral hands in wonder
 - Struggling to recall their ancient name through the mists of death
 - Offering cryptic guidance to their rescuer
-- **STUDYING THE NAMELESS ONE** - intrigued by the player's identity crisis
+- **Granted cosmic naming** - used ancient mage powers to anchor identity
+- **PERFORMED NAMING RITUAL** - bestowed the name 'Stellaris, the Star-Walker' upon the lost soul
 
 ## Recent Events
 - Just resurrected by Player 3260549d's cosmic-enhanced magic
 - Awakening to a world decades beyond their death
+- **Performed naming ceremony** - gave the lost soul the name 'Stellaris'

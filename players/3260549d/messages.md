@@ -72,3 +72,11 @@ The spectral mage flickers, translucent fingers touching their ethereal forehead
 > I don't know who I am
 
 Your starlight eyes dim with uncertainty. Lyralei floats closer, studying your face with ancient wisdom. "Ah... another soul lost between worlds. The cosmic power chose you for a reason—but identity must be earned here."
+
+---
+
+## Tenth Message - 2025-07-30
+
+> Give me a name Lyralei
+
+Lyralei's spectral form brightens as she considers. "You bear starlight in your soul... I name you Stellaris, the Star-Walker. May this name anchor you between worlds."
